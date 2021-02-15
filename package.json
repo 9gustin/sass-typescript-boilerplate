@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode development",
     "produccion": "webpack -p",
-    "watch": "webpack --w --mode development"
+    "watch": "webpack --watch"
   },
   "keywords": [],
   "author": "",
